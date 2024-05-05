@@ -13,7 +13,7 @@
 
 💬 Entusiasta e estudante no desenvolvimento Java para APIs.
 
-😄 Pronomes: Ele/Dele
+😄 "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida"
 </div>
 <div align="center">
   <a href="https://github.com/williamsza">
