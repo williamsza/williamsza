@@ -6,7 +6,10 @@
   </a>
 </p>
 
-##<p align="left">Eu sou desenvolvedor web e atualmente trabalho com Java e Spring Boot ... from ....<br><br>- 🔭 Atualmente trabalho com Java  ...<br>- 📚 Estou cursando Gestão de TI ...<br>- ⚡ In my free time I ...</p>
+##<p align="left">Eu sou desenvolvedor web e atualmente trabalho com Java e Spring Boot ... from ....<br><br>- 
+🔭 Eu sou desenvolvedor web e atualmente trabalho com Java e Spring Boot  ...<br>- 
+📚 Estou cursando Gestão de TI ...<br>-
+⚡ Sou entusiasta no desenvolvimento Kotlin para Android ...</p>
 
 
 
