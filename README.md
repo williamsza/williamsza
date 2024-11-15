@@ -86,15 +86,3 @@
 
 
 
-###
-<div>
-<img src="https://raw.githubusercontent.com/William/William/output/snake.svg" alt="Snake animation" />
-
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/William/count.svg?"  />
-</div>
-
-###
-</div>
