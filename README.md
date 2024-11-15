@@ -108,11 +108,7 @@
 <div>
 <img src="https://raw.githubusercontent.com/William/William/output/snake.svg" alt="Snake animation" />
 
-###
 
-<p align="left">Hello World!!</p>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/William/count.svg?"  />
