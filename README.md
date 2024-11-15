@@ -42,4 +42,7 @@
   <a href="https://www.youtube.com/channel/UCoXZs6zhsSx9_xPe4B_vBbQ"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> 
  
 </div>
+<img src="https://raw.githubusercontent.com/William/William/output/snake.svg" alt="Snake animation" />
+
+###
 
