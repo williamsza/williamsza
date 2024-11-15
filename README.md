@@ -16,18 +16,6 @@
 😄 "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida"
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
   <a href="https://github.com/williamsza">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=williamsza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -54,8 +42,4 @@
   <a href="https://www.linkedin.com/in/williams2/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.youtube.com/channel/UCoXZs6zhsSx9_xPe4B_vBbQ"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> 
 
-
 </div>
-
-###
-
