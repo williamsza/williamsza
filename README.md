@@ -15,12 +15,7 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor web e atualmente trabalho com Java e Spring Boot
 
-
-🌱 Também estou estudando kubernets e AWS 
-
-💬 Sou entusiasta no desenvolvimento Kotlin para Android
 
 </div>
 <div align="center">
