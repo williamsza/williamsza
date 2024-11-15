@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="left">Eu sou'm ... from ....<br><br>- 🔭 Atualmente trabalho com Java  ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+//<p align="left">Eu sou'm ... from ....<br><br>- 🔭 Atualmente trabalho com Java  ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 
 
