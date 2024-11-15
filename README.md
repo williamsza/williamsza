@@ -6,9 +6,13 @@
   </a>
 </p>
 
+<p align="left">Eu sou'm ... from ....<br><br>- 🔭 Atualmente trabalho com Java  ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+
+
 <div align="center">
   
-🔭 Eu sou desenvolvedor web e atualmente trabalho com Java Native
+🔭 Eu sou desenvolvedor web e atualmente trabalho com Java e
 
 
 🌱 Também estou estudando kubernets e AWS 
@@ -53,7 +57,6 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
