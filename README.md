@@ -13,7 +13,7 @@
 
 🌱 Também estou estudando kubernets e AWS 
 
-💬 Sou entusiasta no desenvolvimento Java para Android
+💬 Sou entusiasta no desenvolvimento Kotlin para Android
 
 </div>
 <div align="center">
