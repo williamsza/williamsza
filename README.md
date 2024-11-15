@@ -1,30 +1,37 @@
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+William+Souza!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
   </a>
 </p>
 
-##<p align="left">
-🔭 Eu sou desenvolvedor web e atualmente trabalho com Java e Spring Boot ... from ....<br><br>- 
-📚 Estou cursando Gestão de TI ...<br>-
-⚡ Sou entusiasta no desenvolvimento Kotlin para Android ...</p>
-
-
-
 <div align="center">
   
+🔭 Eu sou desenvolvedor web e atualmente trabalho com Java e Spring Boot
 
+
+🌱 Também estou estudando kubernets e AWS 
+
+💬 Sou entusiasta no desenvolvimento Kotlin para Android
 
 </div>
 <div align="center">
   <a href="https://github.com/williamsza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=williamsza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=williasza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsza&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
+  <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
+  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg">
+  <!-- <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg"> -->
+  <!-- <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg"> -->
 
+</div>
 
   <p></p>
   <div align="center"> 
@@ -35,32 +42,6 @@
  
 </div>
 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
-
-<h1 align="center">olá pessoal</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=William.William&"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-
-###
-
-<h1 align="left">STATS</h1>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
