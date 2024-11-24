@@ -16,7 +16,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsza&layout=compact&langs_count=7&theme=dark" />
   </a>
 </div>
-
+<div>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
