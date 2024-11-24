@@ -54,6 +54,6 @@
   </a>
 </div>
 
-## ![Snake animation](https://github.com/williamsza/williamsza/blob/output/github-contribution-grid-snake.svg)
 
+<!-- ![Snake animation](https://github.com/williamsza/williamsza/blob/output/github-contribution-grid-snake.svg) -->
 
