@@ -7,7 +7,7 @@
 <div align="center">
   <p>🔭 Eu sou desenvolvedor web e atualmente trabalho com Java e Spring Boot</p>
   <p>🌱 Também estou estudando kubernetes e AWS</p>
-  <p>💬 Sou entusiasta no desenvolvimento em GO</p>
+  <p>💬 Sou entusiasta no desenvolvimento em Golang</p>
 </div>
 
 <div align="center">
