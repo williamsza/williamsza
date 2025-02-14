@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,kubernetes,aws,github" height="45" alt="Tech Stack Logos" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,kubernetes,aws,github,golang" height="45" alt="Tech Stack Logos" />
 </div>
 
 ## 📫 Contact
@@ -39,47 +39,10 @@
   <a href="https://www.linkedin.com/in/williams2/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://www.youtube.com/@williamsza" target="_blank">
+  <a href="https://www.youtube.com/channel/SEU_CANAL_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
 </div>
-
-## 🐍 GitHub Contribution Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/williamsza/williamsza/output/dist/github-snake.svg)
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/williamsza/williamsza/output/dist/github-snake-dark.svg#gh-dark-mode-only)
-
-![GitHub Snake GIF](https://raw.githubusercontent.com/williamsza/williamsza/output/dist/ocean.gif)
-
-## 🔄 GitHub Actions - Snake Animation
-
-```yaml
-name: Generate GitHub Contributions Snake Animations
-
-on:
-  schedule:
-    - cron: "0 1 1 * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@v3
-        with:
-          github_user_name: williamsza
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
 
 
 ## ![Snake animation](https://github.com/williamsza/williamsza/blob/output/github-contribution-grid-snake.svg) 
