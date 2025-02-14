@@ -7,12 +7,12 @@
 </p>
 
 <div align="center">
-  <p>🔭 Eu sou desenvolvedor web e atualmente trabalho com Java e Spring Boot</p>
-  <p>🌱 Também estou estudando Kubernetes e AWS</p>
-  <p>💬 Sou entusiasta no desenvolvimento em Golang</p>
+  <p> Eu sou desenvolvedor web e atualmente trabalho com Java e Spring Boot</p>
+  <p> Também estou estudando Kubernetes e AWS</p>
+  <p> Sou entusiasta no desenvolvimento em Golang</p>
 </div>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/williamsza">
@@ -21,13 +21,23 @@
   </a>
 </div>
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,kubernetes,aws,github,golang" height="45" alt="Tech Stack Logos" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,docker,kubernetes,aws,github,golang,redis" height="45" alt="Tech Stack Logos" />
 </div>
 
-## 📫 Contact
+###  Outras Tecnologias e Ferramentas
+
+- **ORM & Persistência:** Hibernate/JPA
+- **Migração de Banco:** Flyway, Liquibase
+- **Cache:** Redis
+- **Mensageria:** Kafka, AWS SQS/SNS
+- **APIs:** REST
+- **Autenticação & Autorização:** Auth0
+- **Cloud & Serverless:** AWS Lambda, AWS RDS
+
+##  Contact
 
 <div align="center"> 
   <a href="https://www.instagram.com/william.sza/" target="_blank">
@@ -41,7 +51,7 @@
   </a> 
 </div>
 
-## 🐍 GitHub Contribution Snake
+##  GitHub Contribution Snake
 
 <p align="center">
   <img src="https://github.com/williamsza/williamsza/blob/output/github-snake.svg" alt="GitHub Snake Animation">
