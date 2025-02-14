@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/williamsza">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=williamsza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsza&layout=compact&langs_count=7&theme=dark" />
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=williamsza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=williamsza&layout=compact&langs_count=7&theme=dark" />
   </a>
 </div>
 
@@ -39,21 +39,11 @@
   <a href="https://www.linkedin.com/in/williams2/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://www.youtube.com/channel/SEU_CANAL_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-  </a>
 </div>
-
-
-## ![Snake animation](https://github.com/williamsza/williamsza/blob/output/github-contribution-grid-snake.svg) 
 
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/williamsza/williamsza/output/dist/github-snake.svg)
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/williamsza/williamsza/output/dist/github-snake-dark.svg#gh-dark-mode-only)
-
-![GitHub Snake GIF](https://raw.githubusercontent.com/williamsza/williamsza/output/dist/ocean.gif)
-
-
+<p align="center">
+  <img src="https://github.com/williamsza/williamsza/blob/output/github-snake.svg" alt="GitHub Snake Animation">
+</p>
 
