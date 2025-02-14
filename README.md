@@ -78,5 +78,15 @@
   </a>
 </div>
 
- ![Snake animation](https://github.com/williamsza/williamsza/blob/output/github-contribution-grid-snake.svg) 
+## ![Snake animation](https://github.com/williamsza/williamsza/blob/output/github-contribution-grid-snake.svg) 
+
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/williamsza/williamsza/output/dist/github-snake.svg)
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/williamsza/williamsza/output/dist/github-snake-dark.svg#gh-dark-mode-only)
+
+![GitHub Snake GIF](https://raw.githubusercontent.com/williamsza/williamsza/output/dist/ocean.gif)
+
+
 
