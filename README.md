@@ -3,9 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=900&height=40&lines=Hello+World!%2C+I'm+William%2C+a+Backend+Java+Developer+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG">
   </a>
 </p>
-
-# Hello World!, I'm William, a Backend Java Developer 👋🏼
-
 🛜 Currently working as a **Backend Java Developer** with a focus on **Java, DevOps, and Cloud AWS**.<br>
 👨🏼‍💻 Passionate about building scalable systems and robust backend solutions.<br>
 🌐 Exploring the world of **Cloud Computing** and **Infrastructure as Code**.<br>
