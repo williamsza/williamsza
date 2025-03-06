@@ -9,12 +9,22 @@
 
 # 💻 Tech Stack
 
+### Backend Development
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/hibernate-%2300599C.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
+![Micronaut](https://img.shields.io/badge/micronaut-%233B7FBD.svg?style=for-the-badge&logo=micronaut&logoColor=white) 
+![Quarkus](https://img.shields.io/badge/quarkus-%23430098.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+
 ### Monitoring & Observability
 ![Dynatrace](https://img.shields.io/badge/dynatrace-%231493D1.svg?style=for-the-badge&logo=dynatrace&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ### DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
@@ -25,7 +35,8 @@
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white) 
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white) 
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white) 
-![Blackbird](https://img.shields.io/badge/blackbird-%23000000.svg?style=for-the-badge&logo=blackbird&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### API Documentation
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
