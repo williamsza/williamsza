@@ -1,59 +1,46 @@
-# GitHub Profile - William Souza
+# Hello World!, I'm William, a Backend Java Developer 👋🏼
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+William+Souza!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9F" alt="Typing SVG">
-  </a>
-</p>
+🛜 Currently working as a **Backend Java Developer** with a focus on **Java, DevOps, and Cloud AWS**.<br>
+👨🏼‍💻 Passionate about building scalable systems and robust backend solutions.<br>
+🌐 Exploring the world of **Cloud Computing** and **Infrastructure as Code**.<br>
+🚀 Always learning and improving my skills in **Java, DevOps practices, and AWS**.<br>
 
-<div align="center">
-  <p> Eu sou desenvolvedor web e atualmente trabalho com Java e Spring Boot</p>
-  <p> Também estou estudando Kubernetes e AWS</p>
-  <p> Sou entusiasta no desenvolvimento em Golang</p>
-</div>
+---
 
-##  GitHub Stats
+# 💻 Tech Stack
 
-<div align="center">
-  <a href="https://github.com/williamsza">
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=williamsza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=williamsza&layout=compact&langs_count=7&theme=dark" />
-  </a>
-</div>
+### Monitoring & Observability
+![Dynatrace](https://img.shields.io/badge/dynatrace-%231493D1.svg?style=for-the-badge&logo=dynatrace&logoColor=white) 
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-## ️ Tech Stack
+### DevOps & CI/CD
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,docker,kubernetes,aws,github,golang,redis" height="45" alt="Tech Stack Logos" />
-</div>
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white) 
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white) 
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white) 
+![Blackbird](https://img.shields.io/badge/blackbird-%23000000.svg?style=for-the-badge&logo=blackbird&logoColor=white)
 
-###  Outras Tecnologias e Ferramentas
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **ORM & Persistência:** Hibernate/JPA
-- **Migração de Banco:** Flyway, Liquibase
-- **Cache:** Redis
-- **Mensageria:** Kafka, AWS SQS/SNS
-- **APIs:** REST
-- **Autenticação & Autorização:** Auth0
-- **Cloud & Serverless:** AWS Lambda, AWS RDS
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-##  Contact
+---
 
-<div align="center"> 
-  <a href="https://www.instagram.com/william.sza/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:wyllsza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/williams2/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
-
-##  GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/williamsza/williamsza/blob/output/github-snake.svg" alt="GitHub Snake Animation">
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/williamsza/williamsza/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/williamsza/williamsza/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/williamsza/williamsza/output/github-snake.svg" />
+</picture>
