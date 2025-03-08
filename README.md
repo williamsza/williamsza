@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=900&height=40&lines=Hello+World!+I'm+William%2C+a+Backend+Java+Developer+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG">
   </a>
 </p>
+
 🛜 Currently working as a **Backend Java Developer** with a focus on **Java, DevOps, and Cloud AWS**.<br>
 👨🏼‍💻 Passionate about building scalable systems and robust backend solutions.<br>
 🌐 Exploring the world of **Cloud Computing** and **Infrastructure as Code**.<br>
@@ -31,8 +32,7 @@
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/hibernate-%2300599C.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
-![Micronaut](https://img.shields.io/badge/micronaut-%233B7FBD.svg?style=for-the-badge&logo=micronaut&logoColor=white) 
-![Quarkus](https://img.shields.io/badge/quarkus-%23430098.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+![JPA](https://img.shields.io/badge/jpa-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Monitoring & Observability
 ![Dynatrace](https://img.shields.io/badge/dynatrace-%231493D1.svg?style=for-the-badge&logo=dynatrace&logoColor=white) 
@@ -42,26 +42,23 @@
 ### DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![SonarQube](https://img.shields.io/badge/sonarqube-%234E98CD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white) 
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white) 
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-%23FF9900.svg?style=for-the-badge&logo=amazon-sqs&logoColor=white) 
+![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-%23FF9900.svg?style=for-the-badge&logo=amazon-sns&logoColor=white) 
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-### API Documentation
-![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%2340569.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
