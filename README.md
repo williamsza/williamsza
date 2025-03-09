@@ -33,6 +33,8 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/hibernate-%2300599C.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
 ![JPA](https://img.shields.io/badge/jpa-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
+![JUnit](https://img.shields.io/badge/junit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/mockito-%2325A162.svg?style=for-the-badge&logo=mockito&logoColor=white)
 
 ### Monitoring & Observability
 ![Dynatrace](https://img.shields.io/badge/dynatrace-%231493D1.svg?style=for-the-badge&logo=dynatrace&logoColor=white) 
@@ -52,6 +54,7 @@
 ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-%23FF9900.svg?style=for-the-badge&logo=amazon-sqs&logoColor=white) 
 ![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-%23FF9900.svg?style=for-the-badge&logo=amazon-sns&logoColor=white) 
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white) 
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%23232F3E.svg?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### Databases
