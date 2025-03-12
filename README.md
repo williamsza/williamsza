@@ -8,9 +8,7 @@
 👨🏼‍💻 Passionate about building scalable systems and robust backend solutions.<br>
 🌐 Exploring the world of **Cloud Computing** and **Infrastructure as Code**.<br>
 🚀 Always learning and improving my skills in **Java, DevOps practices, and AWS**.<br>
-
 ---
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williams2/) 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/seu-canal) 
