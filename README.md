@@ -33,6 +33,7 @@
 ![JPA](https://img.shields.io/badge/jpa-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JUnit](https://img.shields.io/badge/junit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/mockito-%2325A162.svg?style=for-the-badge&logo=mockito&logoColor=white)
+![Blackbird](https://img.shields.io/badge/blackbird-%23000000.svg?style=for-the-badge&logo=blackbird&logoColor=white)
 
 ### Monitoring & Observability
 ![Dynatrace](https://img.shields.io/badge/dynatrace-%231493D1.svg?style=for-the-badge&logo=dynatrace&logoColor=white) 
