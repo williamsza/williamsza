@@ -4,10 +4,11 @@
   </a>
 </p>
 
-🛜 Currently working as a **Backend Java Developer** with a focus on **Java, DevOps, and Cloud AWS**.<br>
-👨🏼‍💻 Passionate about building scalable systems and robust backend solutions.<br>
-🌐 Exploring the world of **Cloud Computing** and **Infrastructure as Code**.<br>
-🚀 Always learning and improving my skills in **Java, DevOps practices, and AWS**.<br>
+🛜 Currently working as a Junior Backend Java Developer, focusing on Java, Spring Boot, and REST APIs.
+👨🏼‍💻 Passionate about learning and building efficient, high-quality backend solutions.
+🌐 Exploring Cloud Computing concepts and Best Development Practices.
+🚀 Constantly evolving, improving my skills in Java, Spring Framework, and Databases.
+
 ---
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williams2/) 
