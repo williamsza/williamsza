@@ -35,8 +35,12 @@
 ![Mockito](https://img.shields.io/badge/mockito-%2325A162.svg?style=for-the-badge&logo=mockito&logoColor=white)
 ![Blackbird](https://img.shields.io/badge/blackbird-%23000000.svg?style=for-the-badge&logo=blackbird&logoColor=white)
 
-### Learning & Exploring
+### Golang & Frameworks
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/echo-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/fiber-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/gorm-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Monitoring & Observability
 ![Dynatrace](https://img.shields.io/badge/dynatrace-%231493D1.svg?style=for-the-badge&logo=dynatrace&logoColor=white)
@@ -45,7 +49,7 @@
 
 ### DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/sonarqube-%234E98CD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
