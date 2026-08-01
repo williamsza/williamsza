@@ -16,16 +16,21 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/william.sza/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wyllsza@gmail.com)
 
-### ---
+
+
 ## 📊 GitHub Stats
+<!-- Cartão de Detalhes do Perfil - Ocupando 100% da largura, Fundo Preto -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamsza&theme=vue-dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamsza&theme=transparent&hide_border=false" width="100%" alt="GitHub Profile Details" />
 </p>
+
+<!-- Linha de Estatísticas Gerais e Linguagens - Lado a lado, Ocupando 100% da largura, Fundo Preto -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williamsza&theme=vue-dark" alt="Stats Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williamsza&theme=vue-dark" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williamsza&theme=transparent&hide_border=false" width="49.5%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williamsza&theme=transparent&hide_border=false" width="49.5%" alt="Top Languages" />
 </p>
-### ---
+
+
 
 # 💻 Tech Stack
 
