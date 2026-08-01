@@ -17,10 +17,14 @@
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wyllsza@gmail.com)
 
 ---
-
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamsza&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamsza&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamsza&theme=vue-dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williamsza&theme=vue-dark" alt="Stats Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williamsza&theme=vue-dark" alt="Top Langs" />
+</p>
 ---
 
 # 💻 Tech Stack
