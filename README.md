@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/william.sza/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wyllsza@gmail.com)
 
----
+### ---
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamsza&theme=vue-dark" alt="GitHub Stats" />
@@ -25,7 +25,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williamsza&theme=vue-dark" alt="Stats Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williamsza&theme=vue-dark" alt="Top Langs" />
 </p>
----
+### ---
 
 # 💻 Tech Stack
 
